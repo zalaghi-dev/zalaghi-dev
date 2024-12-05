@@ -3,7 +3,8 @@
   A JS/TS enthusiast with a passion for software engineering.
 </p>
 
-##Backend Skills
+## Backend Skills
+
 <div>
 <img alt="Expressjs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
 <img alt="Socketio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
